@@ -8,7 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now added a fully functioning workflow to your repository! :smile:_
+_You've now added a fully functioning workflow to your repository! :smile: :heart_eyes:_
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
@@ -34,5 +34,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-
-![image](https://github.com/ARQOdev/skills-hello-github-actions/assets/73745232/c3c30bd4-94e9-40b2-868a-612f6c97c8d3)
