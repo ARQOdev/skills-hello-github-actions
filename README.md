@@ -20,6 +20,8 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 1. Make a new branch named `test-workflow`.
 1. Make a change, such as adding an emoji to your README.md file, and commit the change directly to your new branch.
+### can't get any better than this
+![image](https://github.com/ARQOdev/skills-hello-github-actions/assets/73745232/c3c30bd4-94e9-40b2-868a-612f6c97c8d3)
 1. In the **Pull requests** tab, create a pull request that will merge `test-workflow` into `main`.
 1. Watch the workflow running in the checks section of the pull request.
 1. Notice the comment that the workflow adds to the pull request.
